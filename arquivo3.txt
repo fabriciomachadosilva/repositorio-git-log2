@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 meu codigo da ramificacao secundaria
 Minha segunda linha de texto
+=======
+meu codigo da ramificacao secundaria. Agora o proxime dev adiciona outra linha
+>>>>>>> secundaria
